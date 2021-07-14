@@ -1,4 +1,4 @@
-# Welcome Jacksimuse Home 👋👍
+# Welcome Jacksimuse Home �👍
 
 ## Profile
 - 이름 : 최재훈
@@ -8,10 +8,11 @@
 - Email : cjh930306@naver.com
 - GitHub : github.com/jacksimuse
 
+## GitHub Stat and langs
 <p align='center'>
-  <a href="https://github.com/WhiteHair-H">
-    <img src="https://github-readme-stats.vercel.app/api?username=WhiteHair-H&theme=synthwave&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteHair-H&theme=synthwave&layout=compact"/>
+  <a href="https://github.com/jacksimuse">
+    <img src="https://github-readme-stats.vercel.app/api?username=jacksimuse&theme=onedark&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksimuse&theme=onedark&layout=compact"/>
   </a>
 </p>
 
