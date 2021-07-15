@@ -1,4 +1,4 @@
-# Welcome Jacksimuse Home �👍
+# Welcome Jacksimuse Home 👍
 
 ## Profile
 - 이름 : 최재훈
