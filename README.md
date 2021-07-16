@@ -8,7 +8,7 @@
 - Email : cjh930306@naver.com
 - GitHub : github.com/jacksimuse
 
-## GitHub Stat and langs
+## GitHub Stat and Languages
 <p align='center'>
   <a href="https://github.com/jacksimuse">
     <img src="https://github-readme-stats.vercel.app/api?username=jacksimuse&theme=onedark&show_icons=true"/>
