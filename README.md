@@ -1,10 +1,11 @@
-# Welcome Jacksimuse Home 👍
+# 👍 Welcome Jacksimuse Home 👍
 
 ## Profile
 - 이름 : 최재훈
 - 활동 : IoT 스터디(21.01~),  
-         프로젝트 / 1인운영가게 자동화 시스템EATS(21.06~)  
-         대구 빅데이터 공모전(21.06~)
+　　 프로젝트 / 1인운영가게 자동화 시스템EATS(21.06~)  
+　　 대구 빅데이터 공모전(21.06~)
+- 주요 프로그램 : ERP, MES, 네이버영화검색(Open API) 
 - Email : cjh930306@naver.com
 - GitHub : github.com/jacksimuse
 
