@@ -5,9 +5,8 @@
 - 활동 : IoT 스터디(21.01~),  
 　　 프로젝트 / 1인운영가게 자동화 시스템EATS(21.06~)  
 　　 대구 빅데이터 공모전(21.06~)
-- 주요 프로그램 : ERP, MES, 네이버영화검색(Open API) 
+- 주요 프로그램 :  [ERP, 네이버영화검색(Open API)](https://github.com/jacksimuse/MiniProject_Desktop),  [MRP시스템](https://github.com/jacksimuse/MiniProject_SimpleMRP/blob/main/README.md) 
 - Email : cjh930306@naver.com
-- GitHub : github.com/jacksimuse
 
 ## GitHub Stat and Languages
 <p align='center'>
@@ -19,7 +18,7 @@
 
 ## Using Tools
 <p align='left'>
-  <a href="https://github.com/WhiteHair-H">
+  <a href="https://github.com/jacksimuse">
     <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png">
     <img height="40" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
     <img height="40" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/logo.png">
@@ -63,32 +62,29 @@
 ## Using Languages
 
 <p align='left'>
-  <a href="https://github.com/WhiteHair-H">
+  <a href="https://github.com/jacksimuse/Study_C">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  </a>
-  <a href="#demo">
+  <a href=https://github.com/jacksimuse/Study_Cpp>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <a href="https://github.com/jacksimuse/StudyCSharp21">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jacksimuse/StudyAspNet21">
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jacksimuse/StudyHtml">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jacksimuse/StudyHtml">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
+  <a href="https://github.com/jacksimuse/StudyHtml">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jacksimuse/Raspberry_pi">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
 </p>
 
@@ -133,12 +129,12 @@
 
 ## 프로그램 구현
 #### NaverMovieFinderApp
-![네이버API (1)](https://user-images.githubusercontent.com/73567433/125535948-0486c062-b4cd-4cb9-ac54-ab3423ab0dd6.gif)
+<kbd>![네이버API (1)](https://user-images.githubusercontent.com/73567433/125535948-0486c062-b4cd-4cb9-ac54-ab3423ab0dd6.gif)</kbd>
 
 #### ERP시스템
-![ERP Login](https://user-images.githubusercontent.com/73567433/125536273-a1c1fc09-41ad-4967-9a6f-b3b2dd878ed9.gif)
+<kbd>![ERP Login](https://user-images.githubusercontent.com/73567433/125536273-a1c1fc09-41ad-4967-9a6f-b3b2dd878ed9.gif)</kbd>
 
 #### MRP시스템
-![MRP시스템](https://user-images.githubusercontent.com/73567433/126060382-95d5a12c-6c1b-42e5-8106-330302651133.gif)
+<kbd>![MRP시스템](https://user-images.githubusercontent.com/73567433/126060382-95d5a12c-6c1b-42e5-8106-330302651133.gif)</kbd>
 
 
