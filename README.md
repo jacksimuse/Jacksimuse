@@ -5,9 +5,20 @@
 - 활동 : IoT 스터디(21.01~),  
 　　 프로젝트 / 1인운영가게 자동화 시스템EATS(21.06~)  
 　　 대구 빅데이터 공모전(21.06~)
-- 주요 프로그램 :  [ERP, 네이버영화검색(Open API)](https://github.com/jacksimuse/MiniProject_Desktop),  [MRP시스템](https://github.com/jacksimuse/MiniProject_SimpleMRP/blob/main/README.md) 
 - Email : cjh930306@naver.com
+- 주요 프로그램 :  [ERP, 네이버영화검색(Open API)](https://github.com/jacksimuse/MiniProject_Desktop),  [MRP시스템](https://github.com/jacksimuse/MiniProject_SimpleMRP/blob/main/README.md) 
 
+## 프로그램 구현
+#### NaverMovieFinderApp
+<kbd>![네이버API (1)](https://user-images.githubusercontent.com/73567433/125535948-0486c062-b4cd-4cb9-ac54-ab3423ab0dd6.gif)</kbd>
+
+#### ERP시스템
+<kbd>![ERP Login](https://user-images.githubusercontent.com/73567433/125536273-a1c1fc09-41ad-4967-9a6f-b3b2dd878ed9.gif)</kbd>
+
+#### MRP시스템
+<kbd>![MRP시스템](https://user-images.githubusercontent.com/73567433/126060382-95d5a12c-6c1b-42e5-8106-330302651133.gif)</kbd>
+
+------------------------
 ## GitHub Stat and Languages
 <p align='center'>
   <a href="https://github.com/jacksimuse">
@@ -15,6 +26,79 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksimuse&theme=onedark&layout=compact"/>
   </a>
 </p>
+
+-----------------------
+
+## Using Languages  
+(클릭하면 해당 Repository로 이동)
+<p align='left'>
+  <a href="https://github.com/jacksimuse/Study_C">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  </a>
+  <a href=https://github.com/jacksimuse/Study_Cpp>
+    <img src="https://img.shields.io/badge/C%2B%2B-87CEEB?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jacksimuse/StudyCSharp21">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jacksimuse/StudyAspNet21">
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jacksimuse/StudyHtml">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jacksimuse/StudyHtml">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
+  <a href="https://github.com/jacksimuse/StudyHtml">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jacksimuse/Raspberry_pi">
+    <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jacksimuse/StudySqlServer">
+    <img src="https://img.shields.io/badge/MSSQL-B22222?style=for-the-badge&logo=sql&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+## 사용 언어 - 명칭
+- C
+- C++
+- C#
+- HTML5
+- JAVASCRIPT
+- CSS3
+- PYTHON
+- .NET
+- SQL
+- MARKDOWN
+
+<br/>
+
+
+| 기술분류 | 보유기술 | 기술분류 | 보유기술 |
+|:---:|---|:---:|---|
+| **Language** |  |**Language** | |
+| **C#** | C# 문법 습득 | **C** | C 문법 습득 |
+|  | 객체지향 개념 이해 및 데이터베이스와 연동 |  | 절차지향언어 개념 이해 및 Git-Hub에 형상관리 |
+|  | 프로토타입형 ERP 시스템 제작 가능 |  | C언어를 활용한 자료구조 및 알고리즘 학습 |
+|  | 간단한 계산기 및 달력 구현 | **C++** | C++ 문법 습득  |
+|  | 누겟패키지 라이브러리를 활용 가능 |  | 객체지향언어 개념 이해 및 Git-Hub에 형상관리 |
+|  | 도서관리 프로그램 제어 | **SQL** | DML을 활용해서 필요한 정보 추출 |
+|  |  API를 이용하여 영화검색 프로그램 제어 | | 관계형 데이터베이스를 활용해서 스키마 생성 |
+| **DBMS** |  | | |
+| **MS-SQL** | DB 설치 및 기본 SQL 작성  | | |
+|  | 데이터베이스 다이어그램을 이용해서 전체 스키마 제어 학습 |  |  |
+|  | DB 모델링 기법 및 정규화 |  |  |
+|  | 트랜잭션의 개념과 처리 방법과 PL/SQL 작성 |
+|  | 솔루션에 데이터 송수신 가능 |
+|  | 프로시저 작성을 통해 트리거 구동 확인 |
+
+<br/>
+
+----------
 
 ## Using Tools
 <p align='left'>
@@ -59,82 +143,5 @@
 <br/>
 
 
-## Using Languages
-
-<p align='left'>
-  <a href="https://github.com/jacksimuse/Study_C">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  </a>
-  <a href=https://github.com/jacksimuse/Study_Cpp>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  </a>
-  <a href="https://github.com/jacksimuse/StudyCSharp21">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  </a>
-  <a href="https://github.com/jacksimuse/StudyAspNet21">
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  </a>
-  <a href="https://github.com/jacksimuse/StudyHtml">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
-  <a href="https://github.com/jacksimuse/StudyHtml">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  </a>
-  <a href="https://github.com/jacksimuse/StudyHtml">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  </a>
-  <a href="https://github.com/jacksimuse/Raspberry_pi">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-</p>
-
-<br/>
-
-## 사용 언어 - 명칭
-- C
-- C++
-- C#
-- HTML5
-- JAVASCRIPT
-- CSS3
-- PYTHON
-- .NET
-- SQL
-- MARKDOWN
-
-<br/>
-
-
-| 기술분류 | 보유기술 | 기술분류 | 보유기술 |
-|:---:|---|:---:|---|
-| **Language** |  |**Language** | |
-| **C#** | C# 문법 습득 | **C** | C 문법 습득 |
-|  | 객체지향 개념 이해 및 데이터베이스와 연동 |  | 절차지향언어 개념 이해 및 Git-Hub에 형상관리 |
-|  | 프로토타입형 ERP 시스템 제작 가능 |  | C언어를 활용한 자료구조 및 알고리즘 학습 |
-|  | 간단한 계산기 및 달력 구현 | **C++** | C++ 문법 습득  |
-|  | 누겟패키지 라이브러리를 활용 가능 |  | 객체지향언어 개념 이해 및 Git-Hub에 형상관리 |
-|  | 도서관리 프로그램 제어 | **SQL** | DML을 활용해서 필요한 정보 추출 |
-|  |  API를 이용하여 영화검색 프로그램 제어 | | 관계형 데이터베이스를 활용해서 스키마 생성 |
-| **DBMS** |  | | |
-| **MS-SQL** | DB 설치 및 기본 SQL 작성  | | |
-|  | 데이터베이스 다이어그램을 이용해서 전체 스키마 제어 학습 |  |  |
-|  | DB 모델링 기법 및 정규화 |  |  |
-|  | 트랜잭션의 개념과 처리 방법과 PL/SQL 작성 |
-|  | 솔루션에 데이터 송수신 가능 |
-|  | 프로시저 작성을 통해 트리거 구동 확인 |
-
-
-
-<br/>
-
-## 프로그램 구현
-#### NaverMovieFinderApp
-<kbd>![네이버API (1)](https://user-images.githubusercontent.com/73567433/125535948-0486c062-b4cd-4cb9-ac54-ab3423ab0dd6.gif)</kbd>
-
-#### ERP시스템
-<kbd>![ERP Login](https://user-images.githubusercontent.com/73567433/125536273-a1c1fc09-41ad-4967-9a6f-b3b2dd878ed9.gif)</kbd>
-
-#### MRP시스템
-<kbd>![MRP시스템](https://user-images.githubusercontent.com/73567433/126060382-95d5a12c-6c1b-42e5-8106-330302651133.gif)</kbd>
 
 
