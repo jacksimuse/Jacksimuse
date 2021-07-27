@@ -1,9 +1,14 @@
 # 👍 Welcome Jacksimuse Home 👍
+<p align='center'>
+  <a href="https://github.com/Jacksimuse">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=528C&fontColor=FFFFFF&height=300&section=header&text=Jack's%20PROFILE&fontSize=50"/>
+  </a>
+</p>
+<br/>
 
 ## Profile
 - 이름 : 최재훈
 - 활동 : IoT 스터디(21.01~),  
-　　 프로젝트 / 1인운영가게 자동화 시스템EATS(21.06~)  
 　　 대구 빅데이터 공모전(21.06~)
 - Email : cjh930306@naver.com
 - 주요 프로그램 :  [ERP, 네이버영화검색(Open API)](https://github.com/jacksimuse/MiniProject_Desktop),  [MRP시스템](https://github.com/jacksimuse/MiniProject_SimpleMRP/blob/main/README.md) 
@@ -76,7 +81,6 @@
 - MARKDOWN
 
 <br/>
-
 
 | 기술분류 | 보유기술 | 기술분류 | 보유기술 |
 |:---:|---|:---:|---|
