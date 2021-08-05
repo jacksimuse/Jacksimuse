@@ -8,8 +8,9 @@
 
 ## Profile
 - 이름 : 최재훈
-- 활동 : IoT 스터디(21.01~),  
-　　 대구 빅데이터 공모전(21.06~)
+- 활동 : [1인운영가게 KIOSK and Serving bot(EATS)(21.05~)](https://github.com/jacksimuse/Project_EATS),  
+　　 [IoT 스터디(21.01~)](https://github.com/jacksimuse/IoT_Study),  
+　　 대구 빅데이터 공모전(21.06~08)(최종 : 2배수 발표평가까지)
 - Email : cjh930306@naver.com
 - 주요 프로그램 :  [ERP, 네이버영화검색(Open API)](https://github.com/jacksimuse/MiniProject_Desktop),  [MRP시스템](https://github.com/jacksimuse/MiniProject_SimpleMRP/blob/main/README.md) 
 
